@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    background-color: goldenrod;
+    color: yellow;
+    padding-left: 144px;    
+}
+h3{
+    color: coral;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;   
+}
+img{
+    border-radius: 100px;
+    margin-left: 140px;
+}
