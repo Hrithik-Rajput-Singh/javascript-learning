@@ -1,0 +1,59 @@
+
+4. Introduction to CSS
+40. Classes vs. Ids
+class="brocli circular"we can specify class 2 time in a single class attribute but cannot do with id
+
+3:59
+4. Introduction to CSS
+40. Classes vs. Ids
+id is unique .can only be use one time
+
+6:16
+5. Intermediate CSS
+46. HTML Divs
+div is her efor structure and divide the content
+
+2:18
+5. Intermediate CSS
+48. CSS Display Property
+css display properties
+
+1.block.  h1 div p ul li. block element just take whole screen from left to right tale 100% of width bust height is determine as content
+
+2.inline   inline element only take display as much as it's height and width   for ex <span>,img ,anchor. span is used to edit some text in paragraph ,inline doesn't take whole scrren it h/w are around text ,its h/w can't be chanage
+
+.3inline-block.  we can change display width and height also using command dispaly:inline-block; 
+
+4.none
+
+2:30
+5. Intermediate CSS
+51. Absolute positioning
+in relative postioning ur adding margin to it's relative like postion: relative left 30px ; it will push it's postion to left 30px from it's current postion wheras absolute postion means your adding a margin to it's parent elemnt for ex div box ,it will move it's postion in respect of div box
+
+5:15
+5. Intermediate CSS
+53. Font Styling in Our Personal Site
+web safe font,google font.
+
+10:42
+5. Intermediate CSS
+61. CSS Float and Clear
+clear not wrap around anything u can say anti-float 
+
+0:58
+7. Intermediate Bootstrap
+94. Advanced CSS - Combining Selectors
+So the idea here is that you write one selector, then a space, and then the next selector.So selector1  selector2{} when there is space it's herarchical selector and ur reading it from right to left.....
+
+selector1.selector2{}you should read the syntax. When there is no space you're reading from left to right and it's call combine slelector So it doesn't matter if it's an id or if it's a class that's being combined with an HTML element, doesn't matter at all And as long as there's no space between your two selectors it will work just fine.it should be on same h1#title{} here iam saying target h1 of a title id
+
+10:21
+8. Web Design School - Create a Website that People Love
+104. Manage ATTENTION with effective User Interface (UI) Design
+to design a perfect web page u have to keep in mind following thing
+
+hierarchy, layout, alignment, white space and your audience
+
+.hierarchy means  what u want to show ur audience should be big and different. .alignment means should be 1 line
+
